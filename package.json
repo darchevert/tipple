@@ -1,0 +1,29 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "apsl-react-native-button": "^3.1.1",
+    "expo": "^34.0.0",
+    "expo-av": "^6.0.0",
+    "expo-font": "~6.0.1",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
+    "react-native-play-sound": "^1.0.24",
+    "react-native-really-awesome-button": "^1.4.2",
+    "react-native-simple-animations": "^0.2.2",
+    "react-native-sound": "^0.11.0",
+    "react-native-web": "^0.11.4",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}
